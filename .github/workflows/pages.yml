@@ -24,6 +24,10 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v5
+      - name: Upgrade packaging tools
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+
 
       - name: Build site
         run: |
