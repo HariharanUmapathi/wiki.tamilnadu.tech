@@ -74,9 +74,10 @@
   device:
     - Web
 - name: Ezhil-Lang
-  description: எழில் - ஒரு தமிழ் நிரலாக்க மொழி; தமிழ் மாணவர்களுக்கு இது
-    முதல்முறை கணிப்பொறி நிரல் ஏழுத உதவும்
-  url: https://github.com/Ezhil-Language-Foundation/Ezhil-Lang
+  description: எழில் - ஒரு தமிழ் நிரலாக்க மொழி;
+    தமிழ் மாணவர்களுக்கு இது முதல்முறை கணிப்பொறி நிரல் ஏழுத உதவும்
+    (Ezhil, is a fun Tamil programming language for K-12).
+  url: https://github.com/Ezhil-Language-Foundation/Ezhil-Lang.git
   categories:
     - Code
 - name: Tamil Wikipedia
@@ -151,13 +152,6 @@
     nouns. The model generalizes well even for unseen words through
     character-level encoding.
   url: https://github.com/Hemanthkumar2112/tamil-lemmatizer
-  categories:
-    - Code
-- name: Ezhil-Lang
-  description: எழில் - ஒரு தமிழ் நிரலாக்க மொழி;
-    தமிழ் மாணவர்களுக்கு இது முதல்முறை கணிப்பொறி நிரல் ஏழுத உதவும்
-    (Ezhil, is a fun Tamil programming language for K-12).
-  url: https://github.com/Ezhil-Language-Foundation/Ezhil-Lang.git
   categories:
     - Code
 - name: Thataan
