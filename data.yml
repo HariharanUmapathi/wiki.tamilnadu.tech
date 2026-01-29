@@ -153,3 +153,18 @@
   url: https://github.com/Hemanthkumar2112/tamil-lemmatizer
   categories:
     - Code
+- name: Ezhil-Lang
+  description: எழில் - ஒரு தமிழ் நிரலாக்க மொழி;
+    தமிழ் மாணவர்களுக்கு இது முதல்முறை கணிப்பொறி நிரல் ஏழுத உதவும்
+    (Ezhil, is a fun Tamil programming language for K-12).
+  url: https://github.com/Ezhil-Language-Foundation/Ezhil-Lang.git
+  categories:
+    - Code
+- name: Thataan
+  description: A typing tutor for tamil99 keyboard layout.
+    Contribute by adding typing exercises to make it even better.
+  url: https://hariharanumapathi.github.io/Thataan/
+  categories:
+    - Resources
+  device:
+    - Desktop
